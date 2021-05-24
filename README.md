@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @chip-davis-in-atl
+- 👀 I’m interested in software development best practices with a focus on QA.
+- 🌱 I’m currently learning MS Azure and other MS related tools.
+- 📫 Reach me at chip.davis@pyramidci.com
